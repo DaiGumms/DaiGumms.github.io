@@ -1,5 +1,0 @@
-site_name: DaiGumms
-nav:
-    - Home: docs/DaiGumms.github.io/index.md
-    - About: docs/DaiGumms.github.io/about.md
-theme: readthedocs
