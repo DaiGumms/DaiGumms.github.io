@@ -1,0 +1,9 @@
+site_name: David Ian Morgan-Gumm
+nav:
+    - Home: index.md
+    - About: about.md
+    - Experience: experience.md
+    - Education: education.md
+    - Interests: interests.md
+theme: material
+~                  
