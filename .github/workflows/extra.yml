@@ -2,7 +2,7 @@ name: gh-pages to master
 on:
   push:	
     branches:	
-      - gh-pages
+      - Source
 
 jobs:
   deploy:
